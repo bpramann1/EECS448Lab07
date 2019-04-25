@@ -1,0 +1,4 @@
+1. The isEmpty method returned true when there was a value in the list.
+2. The addBack method add values to the front instead of the back.
+3. The removeBack method does not remove a value from the linked list.
+4. The removeFront method does not remove a value from the linked list.
